@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\clean architecture implementation\\CleanArchotecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E62096B1-DB6C-4696-93D1-C9A3DDF8C739}|Web\\Web.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\clean architecture implementation\\cleanarchotecture\\web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62096B1-DB6C-4696-93D1-C9A3DDF8C739}|Web\\Web.csproj|solutionrelative:web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62096B1-DB6C-4696-93D1-C9A3DDF8C739}|Web\\Web.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\clean architecture implementation\\cleanarchotecture\\web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62096B1-DB6C-4696-93D1-C9A3DDF8C739}|Web\\Web.csproj|solutionrelative:web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FCE2DA-EF72-4263-9CAE-8141E5BCD162}|Core\\Core.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\clean architecture implementation\\cleanarchotecture\\core\\extentions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FCE2DA-EF72-4263-9CAE-8141E5BCD162}|Core\\Core.csproj|solutionrelative:core\\extentions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62096B1-DB6C-4696-93D1-C9A3DDF8C739}|Web\\Web.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\clean architecture implementation\\cleanarchotecture\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62096B1-DB6C-4696-93D1-C9A3DDF8C739}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\clean architecture implementation\\CleanArchotecture\\Web\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\clean architecture implementation\\CleanArchotecture\\Web\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Web\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:50:08.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\clean architecture implementation\\CleanArchotecture\\Core\\Extentions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extentions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\clean architecture implementation\\CleanArchotecture\\Core\\Extentions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Core\\Extentions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:36:46.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\clean architecture implementation\\CleanArchotecture\\Web\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\clean architecture implementation\\CleanArchotecture\\Web\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Web\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:13:08.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\clean architecture implementation\\CleanArchotecture\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\clean architecture implementation\\CleanArchotecture\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:09:59.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
